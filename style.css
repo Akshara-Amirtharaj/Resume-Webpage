@@ -1,0 +1,24 @@
+/* stylesheet for font styles and alignment of the resume content */
+
+body {
+    color: #2c3e50;
+    margin: 0;
+    padding: 0;
+}
+
+header, footer{
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+section{
+    padding: 1rem;
+    margin: 1rem auto;
+    max-width: 800px;
+}
+
+footer p{
+    margin: 0;
+}
